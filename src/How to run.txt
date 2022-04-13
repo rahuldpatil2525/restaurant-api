@@ -1,0 +1,17 @@
+Technical req
+
+1. .net core 5.0
+2. Node JS
+3. Visual Studio
+
+How to run
+
+1. Run Web Api Application first. Verify the Swagger UI is loading and Api is running.
+
+2. Use command prompt
+
+3. Open command prompt at folder location [/justeat-restaurant-web-app] 
+
+4. Run command npm start.
+
+5. Make sure browser launch with url http://localhost:3000

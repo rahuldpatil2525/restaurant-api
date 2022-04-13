@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustEat.Operations.Restaurant.Api", "JustEat.Operations.Restaurant.Api\JustEat.Operations.Restaurant.Api.csproj", "{8ABDA73E-F8F0-4B6C-8F01-7BCC71B794F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{677BC837-8AA1-4AE1-ACD0-EF2396E14FFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustEat.Operations.Restaurant.Api.Tests", "JustEat.Operations.Restaurant.Api.Tests\JustEat.Operations.Restaurant.Api.Tests.csproj", "{81967B94-6FEB-40D3-AE64-DB998B570858}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1CD862E6-F1D9-4DCB-92BC-22CAB6E3A3C0}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ABDA73E-F8F0-4B6C-8F01-7BCC71B794F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABDA73E-F8F0-4B6C-8F01-7BCC71B794F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABDA73E-F8F0-4B6C-8F01-7BCC71B794F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABDA73E-F8F0-4B6C-8F01-7BCC71B794F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81967B94-6FEB-40D3-AE64-DB998B570858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81967B94-6FEB-40D3-AE64-DB998B570858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81967B94-6FEB-40D3-AE64-DB998B570858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81967B94-6FEB-40D3-AE64-DB998B570858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{81967B94-6FEB-40D3-AE64-DB998B570858} = {677BC837-8AA1-4AE1-ACD0-EF2396E14FFD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AE6A8B9-013A-4B05-897C-50CCDCAFD6F0}
+	EndGlobalSection
+EndGlobal
